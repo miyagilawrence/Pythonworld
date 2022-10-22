@@ -175,7 +175,7 @@ while not game_end:
     pygame.display.update()
    
     # set FPS
-    clock.tick(30)
+    clock.tick(15)
    
  
 # close app, if required
